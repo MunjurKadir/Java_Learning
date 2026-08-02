@@ -1,6 +1,6 @@
 package syntax;
 
-public class First_code {
+public class FirstCode {
     public static void main(String[] args){
         System.out.println("Hello Shawon");
     }
