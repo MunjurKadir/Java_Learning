@@ -10,6 +10,6 @@ public class F04_LogicalOperators {
         System.out.println("Not Logged in: " + !isLoggedIn);
     }
 }
-//        && 	Logical and 	Returns true if both statements are true
-//        || 	Logical or	    Returns true if one of the statements is true
-//        !	    Logical not	    Reverse the result, returns false if the result is true
+//        && 	Logical and 	Returns true if both statements are true.
+//        || 	Logical or	    Returns true if one of the statements is true.
+//        !	    Logical not	    Reverse the result, returns false if the result is true.
