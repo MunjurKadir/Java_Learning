@@ -1,6 +1,6 @@
-package DataType;
+package p03_data_type;
 
-public class DataTypeBasics {
+public class F01_DataTypeBasics {
     public static void main(String[] args){
         int myNum = 5;               // Integer (whole number)
         float myFloatNum = 5.99f;    // Floating point number

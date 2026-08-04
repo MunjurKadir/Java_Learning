@@ -1,6 +1,6 @@
-package DataType;
+package p03_data_type;
 // The var keyword lets the compiler automatically detect the type of a variable based on the value you assign to it.
-public class varKeyword {
+public class F02_VarKeyword {
     public static void main(String[] args){
         var name = "Shawon"; // STring
         var age = 22; // int

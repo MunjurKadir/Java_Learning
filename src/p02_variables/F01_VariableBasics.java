@@ -1,6 +1,6 @@
-package variables;
+package p02_variables;
 
-public class VariableBasics {
+public class F01_VariableBasics {
     public static void main(String[] args){
         int age = 20;
         double price = 50.50;

@@ -1,6 +1,6 @@
-package syntax;
+package p01_syntax;
 
-public class CodeChallange {
+public class F03_CodeChallange {
     public static void main(String[] args) {
         String name = "Shawon";
         int age = 22;

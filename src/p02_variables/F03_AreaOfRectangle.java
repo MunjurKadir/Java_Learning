@@ -1,6 +1,6 @@
-package variables;
+package p02_variables;
 
-public class AreaOfRectangle {
+public class F03_AreaOfRectangle {
     static void main(String[] args){
         int length = 5;
         int width = 6;

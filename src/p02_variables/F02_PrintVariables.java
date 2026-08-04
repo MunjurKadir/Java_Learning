@@ -1,6 +1,6 @@
-package variables;
+package p02_variables;
 
-public class PrintVariables {
+public class F02_PrintVariables {
     public static void main(String[] args){
         String firstName = "Rakib ";
         String lastName = "Hassan";

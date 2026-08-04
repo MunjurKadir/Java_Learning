@@ -1,6 +1,6 @@
-package DataType;
+package p03_data_type;
 
-public class RealLifeExample {
+public class F03_RealLifeExample {
     public static void main (String[] args){
         int item = 50;
         double costPerItem = 9.99;
