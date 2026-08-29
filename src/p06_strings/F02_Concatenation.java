@@ -20,5 +20,6 @@ public class F02_Concatenation {
         String result = x.concat(y).concat(z);
         System.out.println(result);
         System.out.println(x.concat(y).concat(z));
+        System.out.println(x + y + z);
     }
 }
