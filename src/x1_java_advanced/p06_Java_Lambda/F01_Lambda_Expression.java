@@ -9,6 +9,12 @@ public class F01_Lambda_Expression {
         numbers.add(6);
         numbers.add(1);
 
+        // without Lambda
+        for(int n: numbers){
+            System.out.println(n);
+        }
+        System.out.println();
+        // with Lambda
         numbers.forEach((n) -> {
             System.out.println(n);
         });
